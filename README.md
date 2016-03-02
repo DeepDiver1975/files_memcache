@@ -1,10 +1,11 @@
 # files_memcache #
 
-Minimal filecache implementation using memcache
+Minimal example filecache implementation using memcache
 
 ## Not intended for production use ##
 
 Besides being largely untested there are multiple things with this cache implementation that make it unsuitable for regular production use.
+This implementation mainly exists as an example of a custom filecache implementation.
 
 - file and storage id's can conflict with id's from non-local storage backends
 - search is not implemented
