@@ -2,7 +2,7 @@
 <info>
 	<id>files_memcache</id>
 	<name>Memcache file cache storage</name>
-	<description>Storage backend using memcache as minimal filesystem cache</description>
+	<description>Minimal filecache implementation using memcache</description>
 	<licence>AGPL</licence>
 	<author>Robin Appelman</author>
 	<types>
