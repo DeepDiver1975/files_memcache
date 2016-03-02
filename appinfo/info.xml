@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_memcache</id>
+	<name>Memcache file cache storage</name>
+	<description>Storage backend using memcache as minimal filesystem cache</description>
+	<licence>AGPL</licence>
+	<author>Robin Appelman</author>
+	<types>
+		<filesystem/>
+	</types>
+
+	<dependencies>
+		<owncloud min-version="9.0" max-version="9.1"/>
+	</dependencies>
+</info>
