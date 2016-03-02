@@ -17,7 +17,7 @@ class MemcachePropagator implements IPropagator {
 	private $cache;
 
 	/**
-	 * NullPropagator constructor.
+	 * MemcachePropagator constructor.
 	 *
 	 * @param \OCP\ICache $cache
 	 */
